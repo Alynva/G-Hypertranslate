@@ -1,0 +1,28 @@
+{
+  "name": "g-hypertranslate",
+  "version": "1.0.0",
+  "description": "Play translation telephone using Google Translate - https://www.ravbug.com/hypertranslate/",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src -p 9092",
+    "dev": "nodemon src -p 9092"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alynva/G-Hypertranslate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alynva/G-Hypertranslate/issues"
+  },
+  "homepage": "https://github.com/Alynva/G-Hypertranslate#readme",
+  "dependencies": {
+    "gnode-api": "^0.2.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
