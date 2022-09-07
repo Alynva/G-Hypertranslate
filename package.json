@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/Alynva/G-Hypertranslate#readme",
   "dependencies": {
-    "gnode-api": "^0.2.9"
+    "gnode-api": "^0.2.9",
+    "undici": "^5.10.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
